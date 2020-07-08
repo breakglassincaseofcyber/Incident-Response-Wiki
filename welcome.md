@@ -1,4 +1,10 @@
-# Welcome to the breakglassincaseofcyber wiki!
+---
+description: >-
+  Welcome to the breakglassincaseofcyber wiki! This is a collection of technical
+  information to assist in Incident Response
+---
+
+# Welcome
 
 Far too often I find myself needing information for IR purposes. For example: What's the listing of xyz important Linux artifacts? What commands can I run in windows to see recently modified system files?
 
